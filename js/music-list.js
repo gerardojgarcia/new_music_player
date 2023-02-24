@@ -18,28 +18,34 @@ let allMusic = [
   },
   {
     name: "Brazilian Bossa Nova",
-    artist: "Sonido Solar",
+    artist: "Gerardo Garcia",
     img: "music-2",
     src: "music-2"
   },
   {
     name: "Female Turkish Mix",
-    artist: "Sonido Solar",
+    artist: "Gerardo Garcia",
     img: "music-3",
     src: "music-3"
   },
   {
     name: "Japan Mix Vol. 1",
-    artist: "Sonido Solar",
+    artist: "Gerardo Garcia",
     img: "music-4",
     src: "music-4"
   },
   {
-    name: "Adios Adios Amor",
-    artist: "Sonido Solar",
+    name: "St. Tropez Mon Ami",
+    artist: "Gerardo Garcia",
     img: "music-5",
     src: "music-5"
-  }
+  },
+  {
+      name: "Adios Adios Amor Vol. 1",
+     artist: "Gerardo Garcia",
+      img: "music-6",
+      src: "music-6"
+     }
   
   // like this paste it and remember to give comma after ending of this bracket }
   // {
