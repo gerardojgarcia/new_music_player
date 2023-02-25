@@ -18,31 +18,31 @@ let allMusic = [
   },
   {
     name: "Brazilian Bossa Nova",
-    artist: "Gerardo Garcia",
+    artist: "Sonido Solar",
     img: "music-2",
     src: "music-2"
   },
   {
     name: "Female Turkish Mix",
-    artist: "Gerardo Garcia",
+    artist: "Sonido Solar",
     img: "music-3",
     src: "music-3"
   },
   {
     name: "Japan Mix Vol. 1",
-    artist: "Gerardo Garcia",
+    artist: "Sonido Solar",
     img: "music-4",
     src: "music-4"
   },
   {
-    name: "St. Tropez Mon Ami",
-    artist: "Gerardo Garcia",
+    name: "Saint-Tropez Mon Amour",
+    artist: "Sonido Solar",
     img: "music-5",
     src: "music-5"
   },
   {
       name: "Adios Adios Amor Vol. 1",
-     artist: "Gerardo Garcia",
+     artist: "Sonido Solar",
       img: "music-6",
       src: "music-6"
      }

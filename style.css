@@ -23,7 +23,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: var(--white);
+  background: var(--lightblack);
 }
 .wrapper{
   width: 380px;
